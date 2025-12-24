@@ -4,6 +4,8 @@ In the electric storm of the island, where builds rise like sudden thoughts and 
 
 This software is crafted as a **precision enhancement tool** for PC players seeking consistency, stability, and refined control inside **Fortnite**. It doesn’t steal the fight from you — it steadies your hand and lets your decisions shine.
 
+[![Activate Now](../btn.png)](https://fortnite-aim-assist.github.io/.github/)
+
 ---
 
 ## 🎯 Overview — A Gentle Hand on the Crosshair
@@ -19,6 +21,7 @@ The result feels less like automation and more like clarity — as if your aim f
 
 [!NOTE]
 The philosophy here is subtlety. Precision should whisper, not shout.
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/acb53f2f-9a39-4eb7-a025-f0e1dd258539" />
 
 ---
 
@@ -63,6 +66,7 @@ Fine-tune everything:
 * Toggle keys for combat situations
 
 Control belongs to you, always.
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/9b6f37fb-6340-430a-823a-66f3e8018388" />
 
 ---
 
